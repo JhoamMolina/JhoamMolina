@@ -1,4 +1,5 @@
 ## 👨🏻‍💻 &nbsp;About Me 
+Hi, I'm Jhoam Molina, and I'm a web developer with expertise in React, Typescript and HTML. With 2+ years of experience in the field, I have worked on various projects ranging from small business websites to complex web applications. My proficiency in React allows me to build scalable, efficient, and dynamic web applications using the best practices offering seamless user experiences. I am well-versed in developing and integrating front-end applications using HTML, CSS, and JavaScript/TypeScript and I follow industry best practices for testing to ensure that my code is of the highest quality
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/-Jhoam%20Molina-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jhoammolina/)](https://www.linkedin.com/in/jhoammolina/)
