@@ -32,5 +32,5 @@ Hi, I'm Jhoam Molina, and I'm a web developer with expertise in React, Typescrip
 <br/>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-lemon-seven-64.vercel.app/api?username=JhoamMolina)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-baxd.vercel.app/api?username=JhoamMolina)](https://github.com/anuraghazra/github-readme-stats)
 
