@@ -30,3 +30,7 @@ Hi, I'm Jhoam Molina, and I'm a web developer with expertise in React, Typescrip
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 <br/>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhoamMolina)](https://github.com/anuraghazra/github-readme-stats)
+
